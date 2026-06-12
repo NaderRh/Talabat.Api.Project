@@ -1,0 +1,31 @@
+﻿# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# SQL
+*.mdf
+*.ldf
+
+# App Settings
+appsettings.json
+
+# Publish
+publish/
+
+# Packages
+packages/
+
+# OS
+Thumbs.db
+.DS_Store
